@@ -6,4 +6,5 @@
     <string name="version_2">Android 8.0</string>
     <string name="code_name_1">Pie</string>
     <string name="code_name_2">Oreo</string>
+    <string name="add">ADD</string>
 </resources>
